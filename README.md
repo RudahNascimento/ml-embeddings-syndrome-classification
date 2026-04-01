@@ -1,6 +1,13 @@
-# ML Test - Syndrome Classification
+# ML Test - Embeddings Classification
 
-This project implements a machine learning pipeline to classify syndromes based on embedding vectors, using K-Nearest Neighbors (KNN).
+This project implements a machine learning pipeline for classifying genetic syndromes using precomputed image embeddings.
+
+## Highlights
+- Data preprocessing and EDA
+- t-SNE visualization
+- KNN classification (Euclidean vs Cosine)
+- Cross-validation and metrics (F1, AUC, Top-k)
+- ROC curve comparison
 
 ## 1) Project Structure
 
