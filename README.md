@@ -29,7 +29,10 @@ project/
 │   ├── plots/
 │   ├── prints/
 │   └── tables/
-│
+│ 
+├── report/
+│   ├── ml_report.pdf
+│ 
 ├── requirements.txt
 └── README.md 
 ```
@@ -74,4 +77,5 @@ The following outputs are generated automatically:
 
 ## 5) Report
 
-A detailed analysis of the methodology, results, and conclusions is provided in the accompanying PDF report.
+A detailed analysis of the methodology, results, and conclusions is provided in the accompanying PDF report located in the 'report' folder.
+
