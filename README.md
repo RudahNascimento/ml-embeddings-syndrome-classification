@@ -31,7 +31,7 @@ project/
 │   └── tables/
 │ 
 ├── report/
-│   ├── ml_report.pdf
+│   └── ml_report.pdf
 │ 
 ├── requirements.txt
 └── README.md 
